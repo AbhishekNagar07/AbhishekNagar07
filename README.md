@@ -22,5 +22,5 @@ Hi there, I'm Abhishek Nagar👋<br><br>🎓 A 2nd-year B.Tech student at IIIT K
 ![](https://github-contributor-stats.vercel.app/api?username=AbhishekNagar07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AbhishekNagar07&icon=2&color=2)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AbhishekNagar07&icon=2&color=blue)](https://visitcount.itsvg.in)
 
